@@ -1,2 +1,1 @@
-# cgpa-hero
-# gpa
+# proxy
